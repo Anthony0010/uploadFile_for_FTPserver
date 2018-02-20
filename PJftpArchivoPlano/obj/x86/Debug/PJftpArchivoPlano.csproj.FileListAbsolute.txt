@@ -1,0 +1,18 @@
+C:\Users\Administrador\Desktop\SoftNatural\PJftpArchivoPlano\PJftpArchivoPlano\bin\Debug\PJftpArchivoPlano.exe.config
+C:\Users\Administrador\Desktop\SoftNatural\PJftpArchivoPlano\PJftpArchivoPlano\bin\Debug\PJftpArchivoPlano.exe
+C:\Users\Administrador\Desktop\SoftNatural\PJftpArchivoPlano\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.LeerArchivoFP.FrmArchivoFP.resources
+C:\Users\Administrador\Desktop\SoftNatural\PJftpArchivoPlano\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.Properties.Resources.resources
+C:\Users\Administrador\Desktop\SoftNatural\PJftpArchivoPlano\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\SoftNatural\PJftpArchivoPlano\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.exe
+C:\Users\Administrador\Desktop\SoftNatural\PJftpArchivoPlano\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.pdb
+C:\Users\Administrador\Desktop\SoftNatural\PJftpArchivoPlano\PJftpArchivoPlano\bin\Debug\PJftpArchivoPlano.pdb
+C:\Users\Administrador\Desktop\SoftNatural\PJftpArchivoPlano\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.csprojResolveAssemblyReference.cache
+E:\desk\Sambil ftp\PJftpArchivoPlano\bin\Debug\PJftpArchivoPlano.exe.config
+E:\desk\Sambil ftp\PJftpArchivoPlano\bin\Debug\PJftpArchivoPlano.exe
+E:\desk\Sambil ftp\PJftpArchivoPlano\bin\Debug\PJftpArchivoPlano.pdb
+E:\desk\Sambil ftp\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.csprojResolveAssemblyReference.cache
+E:\desk\Sambil ftp\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.LeerArchivoFP.FrmArchivoFP.resources
+E:\desk\Sambil ftp\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.Properties.Resources.resources
+E:\desk\Sambil ftp\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.csproj.GenerateResource.Cache
+E:\desk\Sambil ftp\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.exe
+E:\desk\Sambil ftp\PJftpArchivoPlano\obj\x86\Debug\PJftpArchivoPlano.pdb
